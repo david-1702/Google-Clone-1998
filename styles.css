@@ -1,0 +1,82 @@
+.img{
+    width: 290px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+.hello{
+    display: flex;
+    justify-content: center;
+    font-weight: lighter;
+    font-size:small;
+}
+p {
+    margin: 0;
+}
+.last{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.search-box{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3px;
+    border: 0.68px solid ;
+    padding-left: 2px;
+    width: 200px}
+.btnc{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    margin-top: 3px;
+    margin-right:2.5px;
+    margin-left: 2.5px;
+    background-color:rgb(215, 215, 215);
+    border: 0.4px solid;
+}
+.box{
+    background-color:rgb(238, 238, 238);
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 70px;
+    padding-top: 4px;
+}
+.box1{
+    background-color: rgb(91, 239, 239);
+    margin-left:40px ;
+}
+.box1, .box2, .box3 {
+    padding: 10px;
+    width: 30%;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 2px;
+}
+
+.box2{
+    background-color: rgb(93, 196, 196);
+    margin-left: 1px;
+    margin-right: 1px;
+}
+.search{
+    border: 0.5px solid black;
+}
+.btnl{
+    border: 0.1px solid rgb(185, 185, 185);
+    background-color: rgb(238, 238, 238);
+}
+.box3{
+    background-color: rgb(76, 171, 171);
+    margin-right: 40px;  
+}
+.cpy{
+    display: flex;
+    justify-content: center;
+    font-size: small;
+}
